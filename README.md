@@ -8,4 +8,4 @@ You need the following to get started with coding:
 - VS Code
 - Git hub account
 - Homebrew
-
+- Lots and lots of motivation, persistence and faith!
