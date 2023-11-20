@@ -5,7 +5,7 @@ You need the following to get started with coding:
 
 - Java JDK 17
 - Up to date Mac
- -VS Code
-  Git hub account
-  Homebrew
+- VS Code
+- Git hub account
+- Homebrew
 
